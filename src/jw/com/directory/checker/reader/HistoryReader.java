@@ -1,4 +1,4 @@
-package wellcare.com.directory.checker.reader;
+package jw.com.directory.checker.reader;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -8,8 +8,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-import wellcare.com.directory.checker.data.FileAttributes;
-import wellcare.com.directory.checker.exception.PathNotFoundException;
+import jw.com.directory.checker.data.FileAttributes;
+import jw.com.directory.checker.exception.PathNotFoundException;
 
 public class HistoryReader {
 

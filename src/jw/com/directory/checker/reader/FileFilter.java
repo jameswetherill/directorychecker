@@ -1,7 +1,7 @@
 /**
  * 
  */
-package wellcare.com.directory.checker.reader;
+package jw.com.directory.checker.reader;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -9,7 +9,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 /**
- * wellcare.com.directory.checker.reader.FileFilter
+ * jw.com.directory.checker.reader.FileFilter
  */
 public class FileFilter implements Filter {
 

@@ -1,4 +1,4 @@
-package wellcare.com.directory.checker;
+package jw.com.directory.checker;
 
 import java.util.Timer;
 

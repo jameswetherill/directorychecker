@@ -1,10 +1,10 @@
 /**
  * 
  */
-package wellcare.com.directory.checker.exception;
+package jw.com.directory.checker.exception;
 
 /**
- * wellcare.com.directory.checker.exception.PathNotFoundException
+ * jw.com.directory.checker.exception.PathNotFoundException
  */
 public class PathNotFoundException extends Throwable {
 	private static final long serialVersionUID = 3738482253969235688L;

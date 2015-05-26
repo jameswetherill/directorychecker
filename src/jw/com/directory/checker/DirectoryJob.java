@@ -1,7 +1,7 @@
 /**
  * 
  */
-package wellcare.com.directory.checker;
+package jw.com.directory.checker;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -10,11 +10,11 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.util.TimerTask;
 
-import wellcare.com.directory.checker.exception.PathNotFoundException;
-import wellcare.com.directory.checker.reader.DirectoryReader;
+import jw.com.directory.checker.exception.PathNotFoundException;
+import jw.com.directory.checker.reader.DirectoryReader;
 
 /**
- * wellcare.com.directory.checker.DirectoryJob
+ * jw.com.directory.checker.DirectoryJob
  */
 public class DirectoryJob extends TimerTask {
 

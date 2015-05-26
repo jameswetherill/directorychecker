@@ -1,12 +1,12 @@
 /**
  * 
  */
-package wellcare.com.directory.checker.reader;
+package jw.com.directory.checker.reader;
 
 import java.io.FileFilter;
 
 /**
- * wellcare.com.directory.checker.Filter
+ * jw.com.directory.checker.Filter
  */
 public interface Filter extends FileFilter {
 

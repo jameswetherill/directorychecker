@@ -1,18 +1,18 @@
 /**
  * 
  */
-package wellcare.com.directory.checker.writer;
+package jw.com.directory.checker.writer;
 
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
-import wellcare.com.directory.checker.data.FileAttributes;
-import wellcare.com.directory.checker.reader.HistoryReader;
+import jw.com.directory.checker.data.FileAttributes;
+import jw.com.directory.checker.reader.HistoryReader;
 
 /**
- * wellcare.com.directory.checker.writer.FileWriter
+ * jw.com.directory.checker.writer.FileWriter
  */
 public class FileWriter {
 

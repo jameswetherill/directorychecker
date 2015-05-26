@@ -1,4 +1,4 @@
-package wellcare.com.directory.checker.data;
+package jw.com.directory.checker.data;
 
 public class FileAttributes {
 	

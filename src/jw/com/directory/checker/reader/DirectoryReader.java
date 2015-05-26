@@ -1,19 +1,19 @@
 /**
  * 
  */
-package wellcare.com.directory.checker.reader;
+package jw.com.directory.checker.reader;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import wellcare.com.directory.checker.data.FileAttributes;
-import wellcare.com.directory.checker.exception.PathNotFoundException;
-import wellcare.com.directory.checker.writer.FileWriter;
+import jw.com.directory.checker.data.FileAttributes;
+import jw.com.directory.checker.exception.PathNotFoundException;
+import jw.com.directory.checker.writer.FileWriter;
 
 /**
- * wellcare.com.directory.checker.DirectoryReader
+ * jw.com.directory.checker.DirectoryReader
  */
 public class DirectoryReader {
 	private static final String HISTORYPATH = "c:/temp/history.csv";
